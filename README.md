@@ -25,7 +25,7 @@ Examensarbete/ ├── data/ # Dataset för analysen ├── notebooks/ # Ju
 1. Klona detta repository:
    ```bash
    git clone https://github.com/AliaAtawna/Examensarbete.git
-   
+
 2. Navigera till projektmappen:
 cd Examensarbete
 
